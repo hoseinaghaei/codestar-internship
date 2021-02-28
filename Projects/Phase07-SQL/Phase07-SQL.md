@@ -248,6 +248,7 @@ query
     <div dir="ltr">
 
     ```
+    
     CREATE TABLE Student
     (
         StudentNumber VARCHAR(8) NOT NULL,
